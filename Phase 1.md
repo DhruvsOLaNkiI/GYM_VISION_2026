@@ -1,4 +1,5 @@
 # Phase 1 — Project Setup & Navigation Shell
+#complete
 
 **Estimated time:** 2–3 days
 
